@@ -7,6 +7,7 @@
 - [Intent catalog](04-intent-catalog.md)
 - [Multi-intent & slots](05-multi-intent.md)
 - [Mapping to data](06-mapping.md)
+- [Model choice: local vs frontier](06b-model-choice.md)
 - [Training pipeline](07-training.md)
 - [Runtime decisions](08-runtime.md)
 - [Request lifecycle](09-lifecycle.md)
