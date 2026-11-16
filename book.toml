@@ -1,0 +1,14 @@
+[book]
+title = "EHR Intent Detection"
+authors = ["buero.chat"]
+language = "en"
+src = "src"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+site-url = "/ehr-intent-detection/"
+git-repository-url = "https://github.com/turnerrainer/ehr-intent-detection"
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+additional-css = ["custom.css"]
